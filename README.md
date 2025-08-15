@@ -59,11 +59,6 @@ http://localhost:8000/index.php
 
 ---
 
-## Preview
-*(Add a screenshot or GIF of your project here for maximum impact)*  
-![Project Screenshot](https://via.placeholder.com/900x500.png?text=PG-Founder+Preview)
-
----
 
 ##  Contributing
 We welcome contributions!  
