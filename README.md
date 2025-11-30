@@ -7,6 +7,12 @@
 > A clean, responsive PHP-based platform to help students and travelers find their perfect **Paying Guest (PG)** stay — easy to use, easy to manage.  
 
 ---
+## Homepage
+![homepage](https://raw.githubusercontent.com/Vaishnavii-23/Pg-founder/main/sample/Screenshot%202025-11-30%20235902.png)
+
+
+
+---
 
 ##  Features
 - Browse PG rooms & facilities  
